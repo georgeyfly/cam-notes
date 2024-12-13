@@ -97,3 +97,4 @@ Currently, the notes for the following subjects are available.
  - Topics in Number Theory (2018, A. J. Scholl)
 ### Easter Term
  - Bounded Cohomology (2017, M. Burger)
+
