@@ -13,7 +13,7 @@ nano ~/.zshrc
 # 2. Add the following line to include TeX binaries in your PATH
 export PATH="/Library/TeX/texbin:$PATH"
 
-# 3. After saving and exiting nano, reload your configuration
+# 3. After saving and exiting nano, reload your configuration file
 source ~/.zshrc
 ```
 
