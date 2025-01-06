@@ -4,7 +4,7 @@ These are the notes I took during lectures in Cambridge. These notes are also av
 
 # Available Subjects
 
-Currently, the notes for the following subjects are available.
+Currently, the notes for the following subjects are available..
 
 ## Part IA
 ### Michaelmas Term
